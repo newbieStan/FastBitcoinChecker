@@ -60,5 +60,4 @@ while o != 99 :
     else:
         print('Please type correct number','\n')
     print(
-        '1=ping to Coingecko api\n2=btc/usd \n3=btc/pln\n4=btc/chf\n5=btc/eur\n6=btc/gbp\n99=exit',
-        '\n')
+        '1=ping to Coingecko api\n2=btc/usd \n3=btc/pln\n4=btc/chf\n5=btc/eur\n6=btc/gbp\n99=exit')

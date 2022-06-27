@@ -8,4 +8,4 @@ instal from GitHub:
 -datetime
 install with pip:
   pip install DateTime
-FastBC.bat is easy way to run it on windows.
+FastBC.bat is the easiest way to run it on windows.

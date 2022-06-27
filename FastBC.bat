@@ -1,3 +1,3 @@
 @echo off
-python C:\Users\stan\Desktop\FastBC.py %*
+python C:\Users\Username\Desktop\FastBC.py %*
 pause

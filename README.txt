@@ -1,5 +1,5 @@
 Hello it is my first simple script in python.
-You have to have installed this python library to run it:
+You have to install python library to run it:
 -urllib3
 install with pip:
   python -m pip install urllib3

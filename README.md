@@ -1,7 +1,7 @@
 <h1 align="center">Hello</h1>
 <h3 align="center">My name is <a href="https://github.com/newbieStan" target="_blank">newbieStan</a> and this is my first simple script in Python 🐍</h1>
 
-<h3 align="center">📚 Libraries 📚</h3>
+<h2 align="center">📚 Libraries 📚</h2>
 
 <p align="center">
   urllib3 ➡️ v. 1.26.11

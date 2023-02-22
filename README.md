@@ -20,3 +20,7 @@
 </p>
 
 <h2 align="center">To install urrlib, use the <a href="https://github.com/GrogMaster/FastBitcoinChecker/blob/main/requirements.txt" target="_blank">requirements.txt</a> file</h2>
+
+```
+pip install requirements.txt
+```

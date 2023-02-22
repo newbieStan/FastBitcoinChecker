@@ -1,4 +1,5 @@
 <h1 align="center">Hello</h1>
+<h3 align="center">My name is <a href="https://github.com/newbieStan">newbieStan</a> and this is my first simple script in Python 🐍</h1>
 
 <h3 align="center">📚 Libraries 📚</h3>
 
